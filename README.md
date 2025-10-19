@@ -1,1 +1,1 @@
-# Student-grade-calculator-coventry-
+# Student-grade-calculator-coventry-university
